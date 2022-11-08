@@ -738,11 +738,13 @@
     html{
         font-size: 50%;
     }
+    .home .slide .content h3{
+        font-size: 5rem;
+      }
     .heading-title{
       font-size: 3.5rem;
     }
     .popup{
       width: 300px;
-      
     }
  }
